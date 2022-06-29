@@ -1,0 +1,25 @@
+{
+  "name": "isthattrue",
+  "version": "1.0.0",
+  "description": "널리 알려진 명언들이 사실인지 아닌지 알려주는 서비스입니다.",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve --mode development",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaeyooniverse/isThatTrue.git"
+  },
+  "author": "jaeyooniverse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaeyooniverse/isThatTrue/issues"
+  },
+  "homepage": "https://github.com/jaeyooniverse/isThatTrue#readme",
+  "devDependencies": {
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.9.2"
+  }
+}
